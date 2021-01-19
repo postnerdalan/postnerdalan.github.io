@@ -1,0 +1,12 @@
+.custom-header {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 450%;
+}
+
+span.logo {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 350%;
+    border-style: solid;
+    border-radius: 25%;
+    padding: 10px 10px 10px 10px;
+}
